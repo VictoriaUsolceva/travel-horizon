@@ -3,6 +3,7 @@
 Проект для лабораторной работы на тему **«Структура сайта и карта сайта (sitemap.xml)»** (тематика: туристическое агентство).
 
 ## Структура проекта
+```
 travel-horizon/
 ├── index.html
 ├── style.css
@@ -43,3 +44,8 @@ travel-horizon/
 │   └── index.html
 └── contacts/
     └── index.html
+```
+
+## Ссылка на Pages
+
+[TravelHorizon](https://victoriausolceva.github.io/travel-horizon/)
