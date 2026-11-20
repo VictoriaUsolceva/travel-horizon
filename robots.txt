@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://victoriausolceva.github.io/travel-horizon//sitemap.xml
